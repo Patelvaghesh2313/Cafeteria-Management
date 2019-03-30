@@ -1,0 +1,9 @@
+
+Nikhil     Malviya    nikhil                    nikhil123  41300      9909815772 16/06/2000 Ahmedabad 
+Nikhil     Malviya    nikhil.com                nikhil123  19580      9909815772 16/06/2000 Ahmedabad 
+Temp       User       temp                      temp1234   100200     12345      23         Amd       
+Nikhil     Malviya    nikhilmalviya             programmer 99889      9909815772 16/06/2000 Ahmedabad 
+vaghesh    patel      v@abc.com                 11111111   1          12         12         amd       
+juyuuu     uytrr      abc2gmail.com             12345678   2334202    1281912819282081208219 12/07/1999 qmd       
+dhrumil    panchal    deg@gmail.com             12345678   10000      9898123565 26/07/2000 ahmedabad 
+vaghesh    patel      vaghesh@gmail.com         vaghesh1   10000      8155856890 27/07/2000 ahemdabad 
